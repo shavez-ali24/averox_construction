@@ -173,6 +173,11 @@ footer{
     .carousel{
         height: 40vh;
     }
+    .btn{font-size: 10px;
+    width: 65px;
+    height: 26px;
+    text-align: center;
+    padding: 4px;}
    
 }
 
