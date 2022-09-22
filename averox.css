@@ -174,10 +174,24 @@ footer{
         height: 40vh;
     }
     .btn{font-size: 10px;
-    width: 65px;
-    height: 26px;
+    /* width: 65px; */
+    height: 22px;
     text-align: center;
-    padding: 4px;}
+    padding: 0px;}
+    
+    .card button{
+        margin: 15px;
+        display: block;
+        /* margin: auto; */ 
+    }
+    #btnbtn{
+        width: 70vw;
+    }
+    #service-btn{
+        margin: auto;
+    }
+    .space{
+        margin-bottom: 5px;    }
    
 }
 
