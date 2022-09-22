@@ -146,7 +146,7 @@ footer{
 }
 }
 
-@media only screen and (max-width:380px) and (min-width:800px){
+@media only screen and (max-width:448px){
     .navbar-nav{
         text-align: center;
     }
@@ -167,7 +167,9 @@ footer{
         height: 30px;
         text-align: center;
     }
-   
+    .carousel-caption{
+        display: none;
+    }
 }
 
 
